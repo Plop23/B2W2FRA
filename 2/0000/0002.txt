@@ -4,11 +4,11 @@
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-ポケモンを　えらんでください
-どの　ポケモンに　つかう？
-どれと　いれかえる？
-どの　ポケモンで　たたかう？
-どの　ポケモンを　もどす？
+Choisissez un Pokemon.
+Utiliser quel Pokemon?
+Remplacer par lequel?
+Combattre avec quel Pokemon?
+Echanger avec quel Pokemon?
 L\xf000Ȃ\x0001\x0000
 /
 \xf000Ȃ\x0001\x0000
@@ -18,37 +18,37 @@ L\xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
 \xf000ć\x0001\x0000
-ＰＰ
-いれかえる
+PP
+ECHANGE
 ♂
 ♀
-つよさをみる
-わざをみる
-たたかえない
-せんとうちゅう
-たいきちゅう
-パートナー
-もちものなし
+SOMMAIRE
+VOIR ATTAQUES
+NE PEUT PAS COMBATTRE
+DEJA AU COMBAT
+PRET
+PARTENAIRE DE
+Aucun objet tenu
 \xf000Ă\x0001\x0000
 \xf000Ă\x0001\x0000
-Ｌｖ．
+Nｖ．
 \xf000Ȃ\x0001\x0000
-つぎのレベルまで
+Nv SUIV.
 \xf000ȅ\x0001\x0000
 \xf000Ć\x0001\x0000
-ＨＰ
+PV
 \xf000Ȃ\x0001\x0000
 \xf000Ȃ\x0001\x0000
 ／
-こうげき
+ATTAQUE
 \xf000Ȃ\x0001\x0000
-ぼうぎょ
+DEFENSE
 \xf000Ȃ\x0001\x0000
-とくこう
+ATQ SP.
 \xf000Ȃ\x0001\x0000
-とくぼう
+DEF SP.
 \xf000Ȃ\x0001\x0000
-すばやさ
+VITESSE
 \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 ＰＰ
@@ -56,7 +56,7 @@ L\xf000Ȃ\x0001\x0000
 \xf000ȁ\x0001\x0000
 ／
 ――
-いりょく
+POUVOIR
 \xf000Ȃ\x0001\x0000
 ―
 めいちゅう
