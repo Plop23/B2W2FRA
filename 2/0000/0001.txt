@@ -1,12 +1,12 @@
-ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ＨＰ／ＰＰ
-かいふく
-せんとうよう
-ボール
-さいごにつかったどうぐ
+Restaurer
+PV / PP
+Objets de
+Soin Statut
+Restaurer
+PV / PP
+Objets Combat
+PokeBall
+Dernier Objet utilisé
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
@@ -19,20 +19,20 @@
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つぎへ
-ＨＰ／ＰＰ
-かいふく
-じょうたい
-かいふく
-ボール
-せんとうよう
+Suivant
+Restaurer
+PV / PP
+Soins
+Statut
+PokéBall
+Objets Combat
 ／
 \xf000Ȁ\x0001\x0000
 \xf000Ȁ\x0001\x0000
-つかう
+Utiliser
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-つかっても　こうかが　ないよ
+Utiliser ça n'aurait aucun effet!
 しろいきりに　つつまれた！\xfffe
 \xf000Ă\x0001\x0000は\xfffeはりきっている
 \xf000Ă\x0001\x0000の\xfffeこうげきが　あがった！
