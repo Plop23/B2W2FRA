@@ -1,107 +1,106 @@
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
-ならびじゅんを　いれてください
-なまえの　かしらもじを　いれてください
-タイプを　いれてください
-かたちを　いれてください
-いろを　いれてください
-ポケモンが　みつかりました！
-ポケモンが　みつかりません……
-けんさく　しています……
-ならび
-なまえ
-タイプ
-いろ
-かたち
-イッシュずかん：けんさくモード
-ぜんこくずかん：けんさくモード
-リセット
-スタート
-やめる
+『Mode Recherche』
+Entrez les critères de recherche.
+『Résultats de la recherche』
+\xf000Ȃ\x0001\x0000 n'a pas été trouvé.
+Selectionnez les critères de rechercheEntrez la première lettre du nom.
+Choisissez le type.
+Choisissez la forme.
+Choisissez la couleur.
+Pokémon trouvé!
+Aucun Pokémon trouvé...
+Recherche...
+ORDRE
+NOM
+TYPE
+COULEUR
+FORME
+Pokédex Unova: Mode Recherche
+Pokédex National: Mode Recherche
+RECOMMENCER
+START
+QUITTER
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
-ばんごうじゅん
-ごじゅうおん
-おもいじゅん
-かるいじゅん
-たかいじゅん
-ひくいじゅん
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
+ACCEPTER
+QUITTER
+Numéro
+A à Z
+Plus lourds aux plus légers
+Plus légers aux plus lourds
+Plus grands aux plus petits
+Plus petits aux plus grands
+Tenèbre
+Roche
+Psy
+Combat
+Plante
+Glace
+Fantome
+Sol
+Electrique
+Poison
+Dragon
+Normal
+Acier
+Volant
+Feu
+Eau
+Insecte
 ――――
 ／
 ――――
-ア.
-イ
-ウ
-エ
-オ
-カ.
-キ
-ク
-ケ
-コ
-サ.
-シ
-ス
-セ
-ソ
-タ.
-チ
-ツ
-テ
-ト
-ナ.
-ニ
-ヌ
-ネ
-ノ
-ハ.
-ヒ
-フ
-ヘ
-ホ
-マ.
-ミ
-ム
-メ
-モ
-ヤ.
-ユ
-ヨ
-ラ.
-リ
-ル
-レ
-ロ
-ワ.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ―
-あか
-あお
-き
-みどり
-くろ
-ちゃ
-むらさき
-はい
-しろ
-もも
+Rouge
+Bleu
+Jaune
+Vert
+Noir
+Marron
+Violet
+Gris
+Blanc
+Rose
 ――――
