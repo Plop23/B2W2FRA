@@ -1,3 +1,3 @@
-すべての　セーブデータエリアを\xfffeしょうきょ　しますか？
-しょうきょした　データは\xfffeもとに　もどせません\xf000븁\x0000\xfffeそれでも　セーブデータエリアを\xfffeしょうきょ　しますか？
-しょうきょ　しています\xfffeしばらく　おまちください
+Éffacer toutes les\xfffedonnées sauvegardées？
+Quand la sauvegarde est éffacée,\xfffeil n'y a aucun moyen de la restaurer.\xf000븁\x0000\xfffeVoulez-vous vraiment\xfffesupprimer la sauvegarde?
+Éffacement de la sauvegarde...\xfffeNe pas éteindre.
