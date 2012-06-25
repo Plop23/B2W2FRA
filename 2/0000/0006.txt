@@ -1,22 +1,22 @@
-つかう
-すてる
-とうろく
-もたせる
-タグをみる
-けってい
-おりる
-もどる
-やめる
-みせる
-ダミー
-キャンセル
-もちもの
-メール
-あずかる
-あずける
-みる
-なし
-かいじょ
+UTILISER
+JETER
+ENREGISTRER
+DONNER
+VOIR
+CONFIRMER
+FUIR
+RETOUR
+FERMER
+MONTRER
+DUMMY
+QUITTER
+SAC
+MAIL
+PRENDRE
+DONNER
+VOIR
+RIEN
+DESELECTIONNER
 ？？？
 ？？？？？
 ／
@@ -26,136 +26,136 @@
 ―――
 ♂
 ♀
-Ｌｖ．
+Ｎｖ．
 Ｎｏ
 ＋
 →
 ＩＤＮｏ
 　
-カーソル
-まえに　もどります！
-なにを　しますか？
-あげる
+Curseur
+Revenir!
+Et maintenant?
+Donner
 \xf000Ȃ\x0001\x0000
 ×
-のみ
+Boire
 \xf000ȃ\x0001\x0000まい
-とじる
-\xf000ĉ\x0001\x0000を　どうしますか？
-ここで　メールを\xfffeかくことは　できません！
-ポケモンが　いませんよ！
-\xf000ĉ\x0001\x0000を　いどうさせます
-\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-ここでは　\xf000ĉ\x0001\x0000を\xfffeもたせることは　できません！
-\xf000ĉ\x0001\x0000を\xfffeいくつ　あずけますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000ȁ\x0001\x0001コ　あずけました
-これいじょう　あずけられません！
-これは　たいせつなもの　なので\xfffeすてることが　できません！
-\xf000ĉ\x0001\x0000を　いくつ　すてますか？
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてました
-\xf000ĉ\x0001\x0000を\xfffe\xf000Ȃ\x0001\x0001コ　すてても　よろしいですか？
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-ここでは　おりられない！
-アララギの　ことば……\xfffe\xf000Ā\x0001\x0000！　こういう　ものには\xf000븀\x0000\xfffeつかいどきが　あるのよ
-あなたの　コイン　\xf000Ȅ\x0001\x0000まい
-わざマシンを　きどうした！
-ひでんマシンを　きどうした！
-なかには　\xf000ć\x0001\x0000が\xfffeきろく　されていた！\xf000븁\x0000\xfffe\xf000ć\x0001\x0000を\xfffeポケモンに　おぼえさせますか？
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！
-まだ　まえに　つかった\xfffeスプレーの　こうかが　のこってます！
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しやすくなった！
-\xf000Ā\x0001\x0000は\xfffe\xf000ĉ\x0001\x0001を　つかった！\xf000븁\x0000\xfffeポケモンと\xfffeそうぐう　しにくくなった！
-ボックスが　いっぱい　です！
-こなの　りょう　\xf000ȃ\x0001\x0000
+Fermer
+Qu'en est-il de \xf000ĉ\x0001\x0000?
+Vous ne pouvez pas écrire\xfffd'email ici！
+Il n'y a aucun Pokémon !
+Move \xf000ĉ\x0001\x0000.
+Vous ne pouvez pas leur donner\xfffe\xf000ĉ\x0001\x0000!
+Vous ne pouvez pas leur donner\xfffe\xf000ĉ\x0001\x0000 here!
+Garder combien de\xfffe\xf000ĉ\x0001\x0000?
+Vous en avez gardé\xfffe\xf000ȁ\x0001\x0001 \xf000ĉ\x0001\x0000.
+Vous ne pouvez pas en stocker plus!
+C'est un objet important\xfffevous ne pouvez donc pas le jeter！
+Jeter combien de\xfffe\xf000ĉ\x0001\x0000(s)?
+Vous en avez jeté \xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001.
+Voulez vous vraiment en jeter\xfffe\xf000ĉ\x0001\x0000を \xf000Ȃ\x0001\x0001?
+Comme le Professeur Keteleeria a dit... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Chaques choses en son\xfffetemps!
+Vous ne pouvez pas descendre de bicyclette ici.
+Comme le Professeur Keteleeria a dit... \xfffe\xf000Ā\x0001\x0000！　\xf000븀\x0000Chaques choses en son\xfffetemps!
+Votre argent:　\xf000Ȅ\x0001\x0000
+CT activée!
+CS Activée!
+Elle contient　\xf000ć\x0001\x0000.\xf000븁\x0000Apprendre \xf000ć\x0001\x0000\xfffea un Pokémon?
+\xf000Ā\x0001\x0000 utilise\xfffe\xf000ĉ\x0001\x0001!
+Tant que le repousse précédent est actif,\xfffevous ne pouvez pas utiliser celui-ci!
+\xf000Ā\x0001\x0000 a utilisé le\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Les Pokémons sauvages sont attirés!
+\xf000Ā\x0001\x0000 a utilisé le\xfffe\xf000ĉ\x0001\x0001.\xf000븁\x0000Les Pokémons sauvages sont repoussés!
+La boite est pleine!
+Poudres:　\xf000ȃ\x0001\x0000
 \xf000봂\x0000Ｎｏ．\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
 Ｎｏ\xf000Ȃ\x0001\x0000\xf000ć\x0001\x0001
 \xf000봂\x0000ひでん\xf000ȁ\x0001\x0000　\xf000ć\x0001\x0001
-きのみのこな
-ポケモンのふえを　ふいた！\xfffeうーん！　すばらしい　ねいろだ！
-ポケモンのふえを　ふいた！
-ふえのねを　きいた\xfffeポケモンは　めを　さました
-いどう
-\xf000ĉ\x0001\x0000を\xfffeかいとることは　できません
-\xf000ĉ\x0001\x0000を\xfffeいくつ　うりますか？
-それなら　\xf000Ȇ\x0001\x0000円で\xfffeおひきとり　いたしましょう
-\xf000ĉ\x0001\x0000を　わたして\xfffe\xf000Ȇ\x0001\x0001円を　うけとった
-おこづかい
-\xf000Ȇ\x0001\x0000円
-×\xf000ȁ\x0001\x0000
-＋\xf000Ȇ\x0001\x0000円
-はい
-いいえ
-うる
+Poudre de baies
+Joue de la Poke-Flute!\xfffeWow!Quel son magnifique!
+Joue the Poke Flute!
+Le pokemon l'a entendu et\xfffes'est levé.
+Bouger
+Vous ne pouvea pas acheter\xfffe\xf000ĉ\x0001\x0000.
+Vendre combien de\xfffe\xf000ĉ\x0001\x0000?
+Je peux vous le reprendre pour　¥\xf000Ȇ\x0001\x0000.\xfffeC'est d'accords?
+A vendu le/les \xf000ĉ\x0001\x0000\xfffet a reçu ¥\xf000Ȇ\x0001\x0001.
+Argent
+¥\xf000Ȇ\x0001\x0000
+x\xf000ȁ\x0001\x0000
++¥\xf000Ȇ\x0001\x0000
+Oui
+Non
+Vendre
 ×\xf000Ȃ\x0001\x0000
-とりだす
+Retirer
 ＰＰ
-いりょく
-めいちゅう
-ぶんるい
+Pouvoir
+Précision
+Catégorie
 \xf000ȁ\x0001\x0000
 \xf000Ȃ\x0001\x0000
-シール　\xf000ȃ\x0001\x0000まい
-アクセサリー　\xf000Ȃ\x0001\x0000こ\xfffeかべがみ　　　　\xf000ȁ\x0001\x0001まい
-バッグを　とじます
-うめる
-ひらく
-たまった　バトルポイント\xfffe\xf000ȃ\x0001\x0000ＢＰ
-タイプ
-バッグに　いれてある　どうぐを\xfffeべんりボタンに　とうろく　できます
-べんりボタンに　とうろく　できる\xfffeどうぐは　２つ　までです！
-ＧＢプレイヤーの　でんげんを　\xfffeいれた！
-ＧＢプレイヤーの　でんげんを\xfffeきった！
-\xf000ĉ\x0001\x0000は　つかえません
-たからぶくろ　の　なかを\xfffeのぞいた！
-\xf000ĉ\x0001\x0000　を\xfffeとりだした！
-\xf000ĉ\x0001\x0000　を\xfffe\xf000ĉ\x0001\x0001　に　しまった
-ぜんぶ　とりだした！
-なかには　なにも\xfffeなかった……
-しかし　いっぱいで\xfffeとりだせ　なかった……
-バッテリー　が　たりない！\xfffeじゅうでん　かんりょうまで\xf000븀\x0000\xfffeあと　\xf000ȁ\x0001\x0000ほ　
-くさむらは\xfffeしずか　だった……
-ポフィンのかず
+Scellés:　\xf000ȃ\x0001\x0000
+Accessoires:　\xf000Ȃ\x0001\x0000\xfffeBackdrops:　　　　\xf000ȁ\x0001\x0001
+Fermer Sac
+Oublier
+Ouvrir
+Points de Combats Sauvegardés:\xfffe\xf000ȃ\x0001\x0000 PC
+Type
+Un objet clé peut être assigné à\xfffece boutton pour pouvoir l'utiliser.
+Vous ne pouvez enregistrersue  seulement\xfffedeux objets!
+Allume le lecteur de musiques\xfffeGB !
+Le lecteur de musiques\xfffeGB est éteint!
+Impossible d'utiliser le/la\xf000ĉ\x0001\x0000.
+A jeté un oeil au dans le sac aux trésors!
+A tiré un/une \xf000ĉ\x0001\x0000!
+A rangé \xf000ĉ\x0001\x0000\xfffe dans \xf000ĉ\x0001\x0001.
+Vous avez tout pris!
+Il n'y a rien a l'intérieur...
+Cependant vous ne pouvezrien\xfffeprendre...
+Batterie Faible!\xfffeIl est conseillé \xf000븀\x0000\xf000ȁ\x0001\x0000 de brancher la console\xfffeafin de pouvoir continuer a jouer!
+La plaine\xfffeest calme...
+Poffins:
 \xf000Ȃ\x0001\x0000／１００
-りょうりに　つかう　きのみを\xfffeバッグから　えらんで　ください！
-ふたりで　いるときは\xfffe\xf000ĉ\x0001\x0001は　つかえません！
-いまは　それどころじゃ　ない！
-どうぐ　ポケット\xfffeぼうけんに　やくだつ\xfffeべんりな　どうぐを　いれます
-かいふく　ポケット\xfffeポケモンの　ＨＰや　ＰＰを\xfffeかいふくさせる　どうぐを　いれます
-ボール　ポケット\xfffeさまざまな　しゅるいの\xfffeモンスターボールを　いれます
-わざマシン　ポケット\xfffeさまざまな　しゅるいの\xfffeわざマシンを　いれます
-きのみ　ポケット\xfffeたくさんの　きのみを\xfffeせいりして　いれます
-メール　ポケット\xfffeカラフルな　びんせんを\xfffeせいりして　いれます
-せんとうよう　ポケット\xfffeポケモンしょうぶで　やくだつ\xfffeどうぐを　いれます
-たいせつなもの　ポケット\xfffeぼうけんに　なくてはならない\xfffeどうぐを　いれます
-とめる
+Choisissez de la poudre afin\xfffede cuisinier avec!
+Vous ne pouvez pas utiliser ça si\xfffevous avez quelqu'un avec vous!
+Vous ne pouvez pas faire ça maintenant!
+Poche a Objet\xfffePour les objets que vous utiliserais\xfffedurant votre aventure.
+Poche a Médicament\xfffePour les objets servant aux soins\xfffedes status, PV et PP.
+Poche PokéBall\xfffeContient vos différentes PokéBalls.
+Poche CT et CS\xfffeContient vos CT et vos CS.
+Poche a Baies\xfffeSert a stocker vos différents\xfffetypes de Baies.
+Poche a Lettre\xfffePermet de stocker des lettres.
+Poche a Objets de Combat\xfffePour les objets a utiliser\xfffedurant les combats.
+Poche a objets Clés\xfffeContient les objet indispensables a\xfffevotre aventure.
+Stop
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
-はい
-いいえ
+Oui
+Non
 \xf000봂\x0000\xf000ĉ\x0001\x0000
-もっていません
-ダークストーンを　つかったが\xfffeまったく　はんのう　しない……
-ライトストーンを　つかったが\xfffeまったく　はんのう　しない……
-もちものを　せいり　しました！
+Vide!
+Vous avez utilisé une Pierre Sombre\xfffemais rien ne se passe...
+Vous avez utilisé une Pierre Lumière\xfffemais rien ne se passe...
+Vos objets ont été triés!
 \xf000Ē\x0001\x0000
-しゅるいじゅんに\xfffeもちものを　せいり　しました！
-なまえじゅんに\xfffeもちものを　せいり　しました！
+\xfffeveux les organiser par type!
+\xfffeveux les organiser par nom!
 おおいじゅんに\xfffeもちものを　せいり　しました！
-すくないじゅんに\xfffeもちものを　せいり　しました！
+\xfffeveut les organiser par ordre croissant!
 ぜんぶ
 フリースペースへ
 もとのポケットへ
-さがしたい　しゅるいを\xfffeえらんで　ください
+Faites un choix!
 \xf000Ē\x0001\x0000に　いれる　もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　いどう　しました！
 \xf000ĉ\x0001\x0001を\xfffe\xf000Ē\x0001\x0000に　もどしました！
-どの　ならびに　かえますか？
-しゅるいじゅん
-なまえじゅん
+Comment voulez vous les trier?
+Par type
+Par nom
 おおいじゅん
-すくないじゅん
-ばんごうじゅん
+Par quantité
+Par Ordre Numérique
 もちものが\xfffe\xf000Ȃ\x0001\x0001しゅるい　みつかりました！
-ばんごうじゅんに\xfffeもちものを　せいり　しました！
-みつかりません
-しまう
+\xfffeveut les organiser par ordre numérique!
+Non trouvé
+Ranger
