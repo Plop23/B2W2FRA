@@ -1,56 +1,56 @@
-いまの　しょうぶを\xfffeバトルビデオに　きろく　しますか？
-はい
-いいえ
-いまの　しょうぶの　きろくは\xfffeのこりませんが　よろしいですか？
-はい
-いいえ
-ぜんかいの　バトルビデオを　けして\xfffeうわがき　しても　よろしいですか？
-はい
-いいえ
-バトルビデオに　きろくちゅう　です！\xfffeでんげんを　きらないでください
-たたかいが　きろく　されました！
-ふぐあいにより\xfffeきろく　できませんでした
-あいてを　まっています\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません
-この　しょうぶは　ろくが　できません
-ＳＥＬＥＣＴ　ＴＩＭＥ
+Voulez vous sauvegarder le\xfffeCombat?
+Oui
+Non
+Le dernier combat n'a pas\xfffeété sauvegardé. Ok?
+Oui
+Non
+Éffacer l'ancien combat pour enregistrer\xfffele nouveau?
+Oui
+Non
+Sauvegarde...\xfffeNe pas éteindre.
+Le combat a été sauvegardé.
+Il y a eu une erreur.\xfffeLe combat ne peut être sauvegardé.
+En attente de la décision de votre\xfffeami...
+Vous ne pouvez pas enregistrer de\xfffevidéo avec ce dresseur.
+Vous ne pouvez pas enregistrer de vidéo avec ce joueur.
+Le dernier combat ne peut pas être sauvegardé.
+Limite de temps:
 \xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
-ぜんかいの　きろく
-コロシアム　シングル\xfffeせいげんなし
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffeせいげんなし シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffeせいげんなし
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffeせいげんなし シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffeせいげんなし
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffeせいげんなし シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffeせいげんなし
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffeせいげんなし シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffeせいげんなし
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffeせいげんなし シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
-バトルサブウェイ\xfffeシングル
-バトルサブウェイ\xfffeダブル
-バトルサブウェイ\xfffeマルチ
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
+ENREGISTREMENT PRÉCÉDENT
+Combat Solo,\xfffeAucune restrictions
+Combat Solo,\xfffeSimple
+Combat Solo,\xfffeAucune restrictions, Booster
+Combat Solo,\xfffeSimple, Booster
+Combat Double,\xfffeAucune restrictions
+Combat Double,\xfffeSimple
+Combat Double,\xfffeAucune restrictions, Booster
+Combat Double,\xfffeSimple, Booster
+Combat Triple,\xfffeAucune restrictions
+Combat Triple,\xfffeSimple
+Combat Triple,\xfffeAucune restrictions, Booster
+Combat Triple,\xfffeSimple, Booster
+Combat Rotatif,\xfffeAucune restrictions
+Combat Rotatif,\xfffeSimple
+Combat Rotatif,\xfffeAucune restrictions, Booster
+Combat Rotatif,\xfffeSimple, Booster
+Combat Multi,\xfffeAucune restriction
+Combat Multi,\xfffeSimple
+Combat Multi,\xfffeAucune restrictions, Booster
+Combat Multi,\xfffeSimple, Booster
+Métro de Combat,\xfffeSimple
+Métro de Combat,\xfffeDouble
+Métro de Combat,\xfffeMulti
+Combat Aléatoire, Libre\xfffeSolo
+Combat Aléatoire, Libre\xfffeDouble
+Combat Aléatoire, Libre\xfffeTriple
+Combat Aléatoire, Libre\xfffeRotatif
+Combat Aléatoire, Libre\xfffeCombat avec Booster
+Combat Aléatoire, Classem.\xfffeSolo
+Combat Aléatoire, Classem.\xfffeDouble
+Combat Aléatoire, Classem.\xfffeTriple
+Combat Aléatoire, Classem.\xfffeRotatif
+Combat Aléatoire, Classem.\xfffeCombat avec Booster
 たいかい　シングル\xfffeシューターなし
 たいかい　シングル\xfffeシューターあり
 たいかい　ダブル\xfffeシューターなし
